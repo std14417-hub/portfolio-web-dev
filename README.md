@@ -138,8 +138,8 @@ This portfolio demonstrates applied software development skills across web, AI/M
 | 📂 **Portfolio** | [std14417-hub.github.io/portfolio](https://std14417-hub.github.io/portfolio) |
 | 💻 **GitHub** | [github.com/std14417-hub](https://github.com/std14417-hub) |
 | 📺 **YouTube** | [youtube.com/@kaoth](https://youtube.com/@kaoth) |
-| 💼 **LinkedIn** | [linkedin.com/in/thanakrit](https://linkedin.com/in/thanakrit) |
-| 📧 **Email** | thanakrit@email.com |
+| 💼 **LinkedIn** | [linkedin.com/in/thanakrit](https://www.linkedin.com/in/thanakrit-dev-6814213ba?utm_source=share_via&utm_content=profile&utm_medium=member_android) |
+| 📧 **Email** | kaoth1x2@gmail.com |
 
 ---
 
